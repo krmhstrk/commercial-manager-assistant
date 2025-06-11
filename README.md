@@ -3,7 +3,7 @@ A sophisticated, multi-module portfolio application built with Python and Stream
 
 This project demonstrates the ability to translate complex business requirements from a real-world job description into a functional, enterprise-grade web application. It integrates a robust PostgreSQL backend, advanced AI-driven analysis via the Anthropic API, and a professional, user-centric frontend based on UX research and B2B design principles.
 
-
+🖼️ Application Preview
 ✨ Features
 This application is composed of four distinct, integrated modules, each designed to address a core responsibility of a Commercial Manager:
 
@@ -79,7 +79,7 @@ Note: If you get an error that the database already exists, you can safely ignor
 5. Configure Environment Variables
 Create a .env file in the root of the project directory. Add your Anthropic API key to this file. This file is not tracked by Git.
 
-ANTHROPIC_API_KEY="a-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+ANTHROPIC_API_KEY="-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ▶️ How to Run
 With the virtual environment activated and the database running, start the Streamlit application:
