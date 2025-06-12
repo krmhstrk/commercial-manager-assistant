@@ -1,6 +1,4 @@
-Of course, here is your updated "readme" file with the images integrated to provide a more visual and engaging overview of your project.
 
------
 
 # Commercial Manager Assistant
 
